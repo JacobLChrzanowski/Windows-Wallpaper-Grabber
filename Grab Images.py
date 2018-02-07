@@ -43,7 +43,7 @@ def makeDir(userPath):
     if not exists(userPath):
         try:
             makedirs(userPath)
-        except OSError as exc: # Guard against race condition
+        except OSError as exc: # prevent race condition
             if exc.errno != errno.EEXIST:
                 raise
 
