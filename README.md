@@ -1,5 +1,5 @@
 # Windows-Wallpaper-Grabber
-Grabs windows 10 logon screen background files and lets you sort through for ones you like. This will eventually be automated.
+Grabs Windows 10 logon screen background files and lets you sort through for ones you like. This will eventually be automated.
 
 This repo is NOT YET COMMENTED.
 
